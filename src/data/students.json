@@ -1,0 +1,8 @@
+
+[ 
+    {"id": 1, "name":"Arun",  "tamil":78, "english":85, "maths":92},
+    {"id":2, "name":"Divya", "tamil":88, "english":90,"maths":95},
+     {"id":3, "name":"Karthick", "tamil":65, "english":70,"maths":58},
+      {"id":4, "name":"Meena", "tamil":92, "english":81,"maths":76},
+       {"id":5, "name":"Suresh", "tamil":55, "english":60,"maths":48}
+]
